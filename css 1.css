@@ -1,0 +1,35 @@
+﻿body{
+	background-color: #a8bfc9;
+	
+}
+h1 {
+	Font-family: "Georgia", Times New Roman, Serif;
+	font-size:14pt;
+	text-align:center;
+}
+h2 {
+	font-family:"Palatino Linotype", Times New Roman, Serif;
+	font-size:12pt;
+	text-align:center;
+}
+table,td{
+	margin-right:auto;
+	margin-left:auto;
+}
+table{
+	margin-top:30px;
+}
+h3{
+	font-size: 36pt;
+	font-family: "Lucida Calligraphy", Arial Black, Sans-serif;
+	text-align: left;
+	font-weight: bold;
+}
+h4{
+	font-family:"Lucida Calligraphy", Arial, sans-serif;
+	font-size:16pt;
+	
+}
+td{
+	padding:0px;
+}

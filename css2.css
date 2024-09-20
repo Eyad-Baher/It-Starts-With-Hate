@@ -1,0 +1,23 @@
+﻿body{
+	background-color:#b0e0e6;
+}
+h1{
+	font-size: 36pt;
+	font-family: "Lucida Calligraphy", Arial Black, Sans-serif;
+	text-align: center;
+	vertical-align:middle;
+}
+h2{
+	font-size: 16pt;
+	font-family: "Georgia", Times New Roman, Serif;
+	text-align: center;
+	vertical-align: middle;
+	color: #2a3439;
+}
+h3{
+	font-size:20pt;
+	font:"Garamond";
+}
+table{
+	
+}
